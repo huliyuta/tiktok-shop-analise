@@ -1,6 +1,6 @@
-# Raio-X TikTok Shop
+# Análise de Performance TikTok Shop
 
-Projeto de portfólio em análise de dados para e-commerce: o diagnóstico de uma loja **fictícia** no TikTok Shop Brasil (beleza, moda, casa e eletrônicos) ao longo de 24 semanas, de 01/06 a 15/11/2026.
+Projeto de portfólio em análise de dados para e-commerce: a análise de performance de uma loja **fictícia** no TikTok Shop Brasil (beleza, moda, casa e eletrônicos) ao longo de 24 semanas, de 01/06 a 15/11/2026.
 
 > **Os dados são simulados.** Foram gerados por um script Python com parâmetros plausíveis de mercado (participação por canal, conversão, ticket médio, reembolso). Nenhum número pertence a uma loja real.
 
