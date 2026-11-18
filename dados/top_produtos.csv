@@ -1,0 +1,13 @@
+sku,produto,categoria,preco,pedidos,gmv,taxa_reembolso,nota_media
+SKU-101,Sérum vitamina C 30 ml,Beleza,59.90,3940,236006.00,0.022,4.8
+SKU-102,Protetor solar facial FPS 50,Beleza,64.90,4732,307106.80,0.018,4.7
+SKU-103,Kit pincéis de maquiagem 12 peças,Beleza,49.90,5565,277693.50,0.041,4.5
+SKU-201,Calça wide leg alfaiataria,Moda,119.90,5870,703813.00,0.168,3.9
+SKU-202,Vestido midi canelado,Moda,99.90,4640,463536.00,0.121,4.2
+SKU-203,Cropped de tricô,Moda,69.90,2138,149446.20,0.064,4.5
+SKU-301,Organizador acrílico de maquiagem,Casa,79.90,1605,128239.50,0.072,4.3
+SKU-302,Garrafa térmica 1 L,Casa,69.90,2955,206554.50,0.031,4.7
+SKU-401,Fone bluetooth TWS,Eletrônicos,129.90,4596,597020.40,0.094,4.1
+SKU-402,Luminária LED de mesa,Eletrônicos,89.90,5684,510991.60,0.038,4.6
+SKU-403,Mini ventilador portátil,Eletrônicos,59.90,5892,352930.80,0.047,4.4
+SKU-104,Lip tint hidratante,Beleza,34.90,2448,85435.20,0.015,4.8
